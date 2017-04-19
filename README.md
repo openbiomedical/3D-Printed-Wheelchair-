@@ -6,4 +6,4 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 Here you can find all the models to create or redisigns a wheelchair.
 
-To understand the name of the objects you should see the archive "Assembly instructions"
+To understand the name of the objects you should see the archive "Assembly instructions" and "foot holder instructions"
